@@ -15,6 +15,7 @@
 		2FCAF2F51E3020F100FC6556 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FCAF2F31E3020F100FC6556 /* LaunchScreen.storyboard */; };
 		2FCAF3001E3020F100FC6556 /* MealSwipeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCAF2FF1E3020F100FC6556 /* MealSwipeTests.swift */; };
 		2FCAF30B1E3020F100FC6556 /* MealSwipeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FCAF30A1E3020F100FC6556 /* MealSwipeUITests.swift */; };
+		2FCAF3191E30213300FC6556 /* TestTxt.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2FCAF3181E30213300FC6556 /* TestTxt.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2FCAF3061E3020F100FC6556 /* MealSwipeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MealSwipeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FCAF30A1E3020F100FC6556 /* MealSwipeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealSwipeUITests.swift; sourceTree = "<group>"; };
 		2FCAF30C1E3020F100FC6556 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FCAF3181E30213300FC6556 /* TestTxt.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = TestTxt.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2FCAF2F31E3020F100FC6556 /* LaunchScreen.storyboard */,
 				2FCAF2F61E3020F100FC6556 /* Info.plist */,
 				2FCAF2EE1E3020F100FC6556 /* MealSwipe.xcdatamodeld */,
+				2FCAF3181E30213300FC6556 /* TestTxt.rtf */,
 			);
 			path = MealSwipe;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FCAF2F51E3020F100FC6556 /* LaunchScreen.storyboard in Resources */,
+				2FCAF3191E30213300FC6556 /* TestTxt.rtf in Resources */,
 				2FCAF2F21E3020F100FC6556 /* Assets.xcassets in Resources */,
 				2FCAF2ED1E3020F100FC6556 /* Main.storyboard in Resources */,
 			);
